@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://tpino92.github.io/proffesional-portfolio/",
     "name": "Trevor Pino",
-    "role": "Full Stack Web Developer and Tech Wizard",
+    "role": "Full Stack Web Developer",
     "linkedinId":"Your LinkedIn Id",
     "facebookid": "Your facebookid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "Skilled in HTML, CSS, JavaScript. Practiced in meeting deadlines, creativity, and teamwork. Excited to develop responsive websites and applications, utilizing different approaches while still collaborating with others to create meaningful experience for the end user.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,23 +22,16 @@ let resumeData = {
           "className":"fa fa-facebook"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":" Tech Wizard who recently earned a Certificate in Full Stack Web Development from the University of Arizona. I enjoy dabbling in various parts of frontend development and am always excited to learn about new technologies, write technical articles or simply just playing games with my friends in my free time.",
     "address":"Albuquerque, NM",
     "website":"trevorpino@yahoo.com",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
+        "UniversityName":"University of Arizona",
+        "specialization":"Full Stack Web Development",
         "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "YearOfPassing":"2021",
+        "Achievements":"Applied aspects of UX and agile development in a recent project where I collaborated in a team of four to develop a single-page MERN app that helps local business owners track their sales, inventory, and attendance at specialty events. Positioned to provide unique perspectives on how end users interact with websites and software platforms by leveraging background in customer service, helping customers and users get their best experience."
       }
     ],
     "work":[
@@ -71,24 +64,28 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Run Buddy",
+        "description":"A fitness website. Users can find trainers and fitness package that best works for them ",
+        "imgurl":"images/portfolio/project1.png",
+        "url": "https://tpino92.github.io/run-buddy/"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Horizeon Solutions",
+        "description":"Social Media Marketing organization that helps users determine which platforms are suited to their brand, using analytics to find the right markets and increase their lead generation.",
+        "imgurl":"images/portfolio/project2.png", 
+        "url": "https://tpino92.github.io/Horiseon-Solutions/"        
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Private Reserve",
+        "description":"A full-stack MERN application that allows users to view products and add to a shopping cart. Users can also submit reviews on individual products. Users must login to be able to put products into a shopping cart and submit reviews.",  
+        "imgurl":"images/portfolio/project3.png",
+        "url": "https://stormy-thicket-95921.herokuapp.com/"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Food Festival",
+        "description":"Website dedicated to finding all things Food Festival. Where they are located, ticket  prices, special events, etc. Users can create an account to store all this information.",
+        "imgurl":"images/portfolio/project4.png",
+        "url": "https://tpino92.github.io/food-festival/"
       }
     ],
     "testimonials":[
